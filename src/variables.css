@@ -1,0 +1,12 @@
+/* colors */
+:root {
+  --main-color: rgb(63, 116, 185);
+  --light-color: white;
+  --btn-color: #b700ff;
+  --btn-sec-color: rgb(225, 0, 255);
+  --text-color: #ffffff;
+  --dark-color: rgb(21, 22, 22);
+  --accent-color: #e9696b;
+  --sec-accent-color: #e9696b;
+  --third-accent-color: #e9696b;
+}
